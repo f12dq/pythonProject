@@ -1,6 +1,6 @@
 <application>
   <component name="CsvEditorSettings">
-    <option name="CURRENT_PLUGIN_VERSION" value="2.15.1" />
+    <option name="CURRENT_PLUGIN_VERSION" value="2.16.3" />
     <option name="TAB_HIGHLIGHT_COLOR" value="-13681153" />
     <option name="EDITOR_PRIO" value="TABLE_FIRST" />
     <option name="TABLE_HEADER_ROW_FIXED" value="true" />
