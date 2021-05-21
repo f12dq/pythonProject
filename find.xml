@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\file.py'" />
-    <option name="defaultScopeName" value="File '...\file.py'" />
-    <option name="SEARCH_SCOPE" value="File '...\file.py'" />
+    <option name="customScope" value="File '...\task6.py'" />
+    <option name="defaultScopeName" value="File '...\task6.py'" />
+    <option name="SEARCH_SCOPE" value="File '...\task6.py'" />
   </component>
 </application>
