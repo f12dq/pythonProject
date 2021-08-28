@@ -5,6 +5,7 @@
       <mapping pattern="square" type="AUTO_DETECTED" />
       <mapping pattern="tasks" type="AUTO_DETECTED" />
       <mapping pattern="csv data" type="AUTO_DETECTED" />
+      <mapping ext="db" type="SQL" />
       <mapping ext="exe" type="Shell Script" />
       <removed_mapping ext="csv" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xls" approved="true" type="Native" />
